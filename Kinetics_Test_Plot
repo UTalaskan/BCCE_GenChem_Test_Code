@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPipXVoUit95NDbb0oZJwad",
+      "authorship_tag": "ABX9TyMY1igIZbA8PA9PgslewJr0",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -34,6 +34,46 @@
       },
       "outputs": [],
       "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Welcome to the Kinetics Test Plot notebook**\n",
+        "\n",
+        "This notebook will walk you through creating zero, first and second order plots for your data.  The first thing that you will need is to have a csv file with your Part 2 lab data.  \n",
+        "\n",
+        "To accomplish this, start with your Kinetics Analysis excel file.  Make sure you are on the second tab titled \"Conc. of Persulfate over Time\" and hit File --> Save and choose the file type as \".csv\".  Click \"Yes\" on the warning.  Then open up your csv file and confirm that it contains the correct data.  How does it look different from the excel data?"
+      ],
+      "metadata": {
+        "id": "binkK881TMyA"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "tPx-TyuLTqWH"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Thgit0cyYLXR"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "_fhvxPEAXzNi"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
